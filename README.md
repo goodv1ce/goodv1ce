@@ -1,8 +1,9 @@
-👋 Hi, I’m @goodv1ce.
-👀 I’m interested in site developing, web-design and C++ programmingю
-🌱 I’m currently learning C++ю
-📫 You can reach me by:
+👋 Hi, I’m @goodv1ce
+👀 I’m interested in site developing, web-design and C++ programming
+🌱 I’m currently learning C++.
+📫 You can reach me by
 email: andriy.lysak.2003@gmail.com
+or
 telegram: @goodvice
 
 <!---
