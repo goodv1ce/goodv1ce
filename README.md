@@ -1,6 +1,6 @@
 👋 Hi, I’m @goodv1ce
-👀 I’m interested in site developing, web-design and C++ programming
-🌱 I’m currently learning C++.
+👀 I’m interested in site developing, web-design, Java and Python programming
+🌱 I’m currently learning Java.
 📫 You can reach me by
 email: andriy.lysak.2003@gmail.com
 or
